@@ -1,16 +1,1 @@
-# Installation
-
-```
-# Install dependencies
-npm install
-
-# Start the development server with live preview using Browsersync
-npm run browsersync
-
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
+[SDF Presentation Slides SIBNGU505.pdf](https://github.com/SibusisoNgubeni/cache-bank-project/files/14447919/SDF.Presentation.Slides.SIBNGU505.pdf)
